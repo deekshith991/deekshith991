@@ -4,7 +4,7 @@ Hi, I'm Deekshith a final-year Electrical and Electronics Engineering (EEE) stud
 
 ### Working on: 🚀
 
-- [Job4U web portal](https://github.com/deekshith991/Job4U-portal) 
+- The [Job4U](https://job-4-u-portal-frontend-one.vercel.app/) web portal & [code](https://github.com/deekshith991/Job4U-portal)
 
 ## Languages and Tools 
 <div>
